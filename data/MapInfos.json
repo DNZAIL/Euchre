@@ -17,5 +17,5 @@ null,
 {"id":15,"expanded":false,"name":"ENDING","order":11,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":16,"expanded":false,"name":"WORK IN PROGRESS - N","order":16,"parentId":0,"scrollX":691,"scrollY":570.5},
 {"id":17,"expanded":false,"name":"WarpZone","order":2,"parentId":1,"scrollX":691,"scrollY":570.5},
-{"id":18,"expanded":false,"name":"EnemyTest","order":3,"parentId":1,"scrollX":0,"scrollY":0}
+{"id":18,"expanded":false,"name":"EnemyTest","order":3,"parentId":1,"scrollX":691,"scrollY":570.5}
 ]
